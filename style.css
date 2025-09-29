@@ -1,18 +1,52 @@
 body{
 
-background-image: url('./img/mezi.jpg');
+
 
 background-size: contain;
 
 background-repeat: no-repeat;
 
-background-color: rgb(rgb(156, 138, 138));
+background-color: rgb(rgb(7, 88, 84));
 
-color: azure;
+color: rgb(0, 255, 255);
 
 text-align: center;
+ font-size: large;
+ font: weight; ;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+
+background-size: contain;
+
+background-repeat: no-repeat;
+
+
+
+
 
 }
 
+li{
 
+background-color: rgb(170, 146, 146);
+ color: rgb(19, 1, 124);
 
+text-align: center;
+font-size: large;
+font-weight:100;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+p{
+
+background-color:  rgb(170, 146, 146);
+color:rgb(19, 1, 124);
+text-align: center;
+font-size: large;
+font-weight: 100;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
