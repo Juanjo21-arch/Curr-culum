@@ -14,6 +14,7 @@ text-align: center;
  font-size: large;
  font: weight; ;
  font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 
 h1{
@@ -30,9 +31,8 @@ background-repeat: no-repeat;
 
 li{
 
-background-color: rgb(170, 146, 146);
- color: rgb(19, 1, 124);
-
+background-color: rgb(255, 255, 255);
+color: rgb(19, 1, 124);
 text-align: center;
 font-size: large;
 font-weight:100;
@@ -42,11 +42,52 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
 
 p{
 
-background-color:  rgb(170, 146, 146);
+background-color:  rgb(255, 255, 255);
 color:rgb(19, 1, 124);
 text-align: center;
 font-size: large;
 font-weight: 100;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h1{
+
+background-color:  rgb(4, 38, 236);
+color:rgb(210, 207, 229);
+text-align: center;
+font-size: large;
+font-weight: 100;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h2{
+
+background-color:  rgb(4, 38, 236);
+color:rgb(210, 207, 229);
+text-align: center;
+font-size: large;
+font-weight: 100;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h3{
+
+background-color:  rgb(4, 38, 236);
+color:rgb(210, 207, 229);
+text-align: center;
+font-size: large;
+font-weight: 100;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+section{
+
+display:inline-block;
+display: inline;
+block-size: 20%;
 
 }
