@@ -91,3 +91,9 @@ display: inline;
 block-size: 20%;
 
 }
+
+nav{
+
+    display: inline-block;
+    width: 100%;
+}
